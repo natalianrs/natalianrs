@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <a href="https://github.com/natalianrs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natalianrs&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natalianrs&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
