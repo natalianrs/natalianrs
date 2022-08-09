@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <a href="https://github.com/natalianrs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natalianrs&hide=scss&show_icons=true&layout=compact&langs_count=8&theme=swift&bg_color=DEG,F9D423,FF4E50"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natalianrs&hide=scss&show_icons=true&layout=compact&langs_count=8&title_color:000000&text_color=000000&bg_color=DEG,F9D423,FF4E50"/>
 </a>
 </p>
