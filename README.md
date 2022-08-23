@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Natália
-- 🎯 I’m currently learning Python, SQL and Data Science
+- 🎯 I’m currently learning Python, SQL and Big Data
  
  
 
