@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m Natália
 - 🎯 I’m currently learning Spark
-- 💾 I'm interested in Data Analytics Infrastructure and Cloud
  
  
 
